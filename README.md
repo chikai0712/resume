@@ -25,12 +25,12 @@
 
 ### 策略規劃與數位轉型
 - <strong>數位轉型路徑圖（Digital Transformation Roadmap）</strong>：制定並執行數位轉型策略，對齊技術策略與商業目標，實現營收成長 200%+，年度成本節省 USD $500,000+
-- <strong>技術債管理（Tech Debt Management）</strong>：識別並管理技術債，透過重構與現代化，系統可用性從 99.5% 提升至 99.95%+，維護成本降低 40%
+- <strong>技術債管理（Tech Debt Management）</strong>：識別並管理技術債，透過重構與現代化，系統可用性從 80% 提升至 99.95%+，維護成本降低 40%
 - <strong>併購後 IT 整合（M&A Integration）</strong>：規劃並執行併購後的 IT 整合，統一系統架構與流程，整合時間縮短 50%，整合成本降低 35%
 
 ### 財務管理與 FinOps
 - <strong>FinOps 實踐</strong>：建立 FinOps 治理框架，實施預算控制與成本優化策略，年度雲端成本節省 USD $500,000+，TCO 降低 25-30%
-- <strong>預算控制（Budget Control）</strong>：建立 IT 預算追蹤機制，實現預算透明度，預算超支率從 15-20% 降低至 3-5%，預算執行準確率 95%+
+- <strong>預算控制（Budget Control）</strong>：建立 IT 預算追蹤機制，實現預算透明度，預算超支率從 15-20% 降低至 3-5%，預算執行準確率 90%+
 - <strong>供應商談判（Vendor Management）</strong>：主導供應商談判，與 AWS、GCP、Cloudflare 等供應商協商 Enterprise Agreement，取得 20-25% 折扣優惠，年度節省 USD $80,000-$100,000+
 - <strong>P&L Responsibility</strong>：負責 IT 部門損益管理，透過成本優化與效率提升，年度 IT 成本節省 USD $500,000+，IT ROI 達 350%+
 
