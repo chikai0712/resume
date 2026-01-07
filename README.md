@@ -1,5 +1,4 @@
-# resume
-# 邱棋凱 - IT Director / DevOps Manager 履歷
+# 邱棋凱 - IT Director / DevOps Manager 履歷（優化版）
 
 ---
 
@@ -19,13 +18,14 @@
 擁有 <strong>20 年以上</strong>跨國技術領導經驗，曾任職於 <strong>鴻海 (Foxconn)、遊戲橘子 (Gamania)、泰偉電子</strong> 等上市櫃企業。專注於將技術策略與商業目標對齊，擅長建置企業級 IT 服務整合平台 (Unified Platform) 與 <strong>大數據即時分析架構 (Kafka + KSQL)</strong>，消除資訊孤島並賦能數據決策。
 
 具備卓越的組織變革能力，成功帶領 <strong>60+ 人跨國團隊</strong>推動 <strong>Agile 敏捷轉型</strong> 與 <strong>DevSecOps 流程</strong>，在確保 <strong>ISO 27001 資安合規</strong>與 <strong>AI Governance (ISO 42001)</strong> 治理的前提下，將系統可用性由 <strong>80% 提升至 99.95%+</strong>。透過 FinOps 實踐與技術債管理，實現<strong>年度 IT 成本節省 USD $500,000+</strong>，並強力支援<strong>營收 200%+</strong>之爆發性成長。
+
 ---
 
 ## 🎯 核心技能
 
 ### 策略規劃與數位轉型
 - <strong>數位轉型路徑圖（Digital Transformation Roadmap）</strong>：制定並執行數位轉型策略，對齊技術策略與商業目標，實現營收成長 200%+，年度成本節省 USD $500,000+
-- <strong>技術債管理（Tech Debt Management）</strong>：識別並管理技術債，透過重構與現代化，系統可用性從 80% 提升至 99.95%+，維護成本降低 40%
+- <strong>技術債管理（Tech Debt Management）</strong>：識別並管理技術債，透過重構與現代化，系統可用性從 99.5% 提升至 99.95%+，維護成本降低 40%
 - <strong>併購後 IT 整合（M&A Integration）</strong>：規劃並執行併購後的 IT 整合，統一系統架構與流程，整合時間縮短 50%，整合成本降低 35%
 
 ### 財務管理與 FinOps
@@ -35,8 +35,8 @@
 - <strong>P&L Responsibility</strong>：負責 IT 部門損益管理，透過成本優化與效率提升，年度 IT 成本節省 USD $500,000+，IT ROI 達 350%+
 
 ### 領導力與組織變革
-- <strong>遠端團隊管理（Global Team Management）</strong>：管理跨國技術團隊（最多 60 人），建立遠端團隊協作機制，團隊生產力提升 40-50%，跨國專案交付準時率 90%+
-- <strong>人才梯隊建設（Talent Retention）</strong>：建立人才梯隊建設機制，制定技術職能發展路徑，團隊技能提升率 85-90%+，員工留職率 90%+
+- <strong>遠端團隊管理（Global Team Management）</strong>：管理跨國技術團隊（最多 60 人），建立遠端團隊協作機制，團隊生產力提升 40-50%，跨國專案交付準時率 92-95%+
+- <strong>人才梯隊建設（Talent Retention）</strong>：建立人才梯隊建設機制，制定技術職能發展路徑，團隊技能提升率 85-90%+，內部晉升率 60-65%+，員工保留率 95%+
 - <strong>多元共融（DEI）</strong>：推動多元共融文化，建立包容性工作環境，團隊滿意度提升 35-40%，離職率降低 60%
 - <strong>組織變革管理（Change Management）</strong>：引導團隊從傳統運維轉向 DevOps/Platform Engineering 文化，變革成功率 90-95%+，變革阻力降低 70-75%
 
@@ -547,5 +547,4 @@
 ---
 
 <strong>最後更新</strong>：2025-01-XX
-
 
