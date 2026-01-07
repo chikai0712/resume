@@ -16,10 +16,9 @@
 
 ## 💼 專業摘要
 
-擁有 20 年以上跨國技術領導經驗，曾任職於 鴻海 (Foxconn)、遊戲橘子 (Gamania)、泰偉電子 等上市櫃企業。專注於將技術策略與商業目標對齊，擅長建置企業級 IT 服務整合平台 (Unified Platform) 與 大數據即時分析架構 (Kafka + KSQL)，消除資訊孤島並賦能數據決策。
+擁有 <strong>20 年以上</strong>跨國技術領導經驗，曾任職於 <strong>鴻海 (Foxconn)、遊戲橘子 (Gamania)、泰偉電子</strong> 等上市櫃企業。專注於將技術策略與商業目標對齊，擅長建置企業級 IT 服務整合平台 (Unified Platform) 與 <strong>大數據即時分析架構 (Kafka + KSQL)</strong>，消除資訊孤島並賦能數據決策。
 
-具備卓越的組織變革能力，成功帶領 60+ 人跨國團隊推動 Agile 敏捷轉型 與 DevSecOps 流程，在確保 ISO 27001 資安合規與 AI Governance (ISO 42001) 治理的前提下，將系統可用性由 80% 提升至 99.95%+。透過 FinOps 實踐與技術債管理，實現年度 IT 成本節省 USD $500,000+，並強力支援營收 200%+ 之爆發性成長。
-
+具備卓越的組織變革能力，成功帶領 <strong>60+ 人跨國團隊</strong>推動 <strong>Agile 敏捷轉型</strong> 與 <strong>DevSecOps 流程</strong>，在確保 <strong>ISO 27001 資安合規</strong>與 <strong>AI Governance (ISO 42001)</strong> 治理的前提下，將系統可用性由 <strong>80% 提升至 99.95%+</strong>。透過 FinOps 實踐與技術債管理，實現<strong>年度 IT 成本節省 USD $500,000+</strong>，並強力支援<strong>營收 200%+</strong>之爆發性成長。
 ---
 
 ## 🎯 核心技能
