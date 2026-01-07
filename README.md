@@ -16,7 +16,7 @@
 
 ## 💼 專業摘要
 
-擁有 <strong>20+ 年</strong>IT 管理與技術領導經驗，專注於技術策略與商業目標對齊、數位轉型與組織變革管理。為多家上市櫃公司（鴻海、遊戲橘子、泰偉電子）規劃並執行數位轉型路徑圖，透過 FinOps 實踐與技術債管理，<strong>年度 IT 成本節省超過 USD $500,000</strong>，系統可用性從 <strong>99.5% 提升至 99.95%+</strong>，<strong>營收成長 200%+</strong>。具備 <strong>ISO 27001 資安主管</strong>經驗，建立企業資安韌性與 AI Governance 框架。管理跨國技術團隊（<strong>最多約60 人</strong>），實現 <strong>95%+ 團隊保留率</strong>，建立人才梯隊建設機制。擅長數位轉型策略規劃、併購後 IT 整合、供應商談判與預算控制，透過技術創新驅動商業價值。
+擁有 <strong>20+ 年</strong>IT 管理與技術領導經驗，專注於技術策略與商業目標對齊、數位轉型與組織變革管理。為多家上市櫃公司（鴻海、遊戲橘子、泰偉電子）規劃並執行數位轉型路徑圖，透過 FinOps 實踐與技術債管理，<strong>年度 IT 成本節省超過 USD $500,000</strong>，系統可用性從 <strong>80% 提升至 99.95%+</strong>，<strong>營收成長 200%+</strong>。具備 <strong>ISO 27001 資安主管</strong>經驗，建立企業資安韌性與 AI Governance 框架。管理跨國技術團隊（<strong>最多約60 人</strong>），實現 <strong>90%+ 團隊保留率</strong>，建立人才梯隊建設機制。擅長數位轉型策略規劃、併購後 IT 整合、供應商談判與預算控制，透過技術創新驅動商業價值。
 
 ---
 
@@ -34,14 +34,14 @@
 - <strong>P&L Responsibility</strong>：負責 IT 部門損益管理，透過成本優化與效率提升，年度 IT 成本節省 USD $500,000+，IT ROI 達 350%+
 
 ### 領導力與組織變革
-- <strong>遠端團隊管理（Global Team Management）</strong>：管理跨國技術團隊（最多 60 人），建立遠端團隊協作機制，團隊生產力提升 40-50%，跨國專案交付準時率 92-95%+
-- <strong>人才梯隊建設（Talent Retention）</strong>：建立人才梯隊建設機制，制定技術職能發展路徑，團隊技能提升率 85-90%+，內部晉升率 60-65%+，員工保留率 95%+
+- <strong>遠端團隊管理（Global Team Management）</strong>：管理跨國技術團隊（最多 60 人），建立遠端團隊協作機制，團隊生產力提升 40-50%，跨國專案交付準時率 90%+
+- <strong>人才梯隊建設（Talent Retention）</strong>：建立人才梯隊建設機制，制定技術職能發展路徑，團隊技能提升率 85-90%+，員工留職率 90%+
 - <strong>多元共融（DEI）</strong>：推動多元共融文化，建立包容性工作環境，團隊滿意度提升 35-40%，離職率降低 60%
 - <strong>組織變革管理（Change Management）</strong>：引導團隊從傳統運維轉向 DevOps/Platform Engineering 文化，變革成功率 90-95%+，變革阻力降低 70-75%
 
 ### 新興科技與治理
 - <strong>GenAI Governance</strong>：建立 GenAI Governance 框架，制定 AI 使用政策與風險管理機制，AI 風險事件零發生，開發效率提升 45%
-- <strong>企業資安韌性（Cyber Resilience）</strong>：建立企業資安韌性架構，實施多層次資安防禦與災難恢復機制，資安事件響應時間減少 60-65%，業務連續性提升至 99.95%+
+- <strong>企業資安韌性（Cyber Resilience）</strong>：建立企業資安韌性架構，實施多層次資安防禦與災難恢復機制，資安事件響應時間減少 60-65%，業務連續性提升至 99%+
 - <strong>AI Governance</strong>：制定 AI 使用政策與風險管理機制，確保 AI 應用符合合規要求，AI 風險事件零發生
 
 ### 平台工程與自動化
