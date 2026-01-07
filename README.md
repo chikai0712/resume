@@ -1,5 +1,5 @@
 # resume
-# 邱棋凱 - IT Director / DevOps Manager 履歷（優化版）
+# 邱棋凱 - IT Director / DevOps Manager 履歷
 
 ---
 
