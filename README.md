@@ -24,7 +24,7 @@
 
 ### 策略規劃與數位轉型
 - <strong>數位轉型路徑圖（Digital Transformation Roadmap）</strong>：制定並執行數位轉型策略，對齊技術策略與商業目標，實現營收成長 200%+，年度成本節省 USD $500,000+
-- <strong>技術債管理（Tech Debt Management）</strong>：識別並管理技術債，透過重構與現代化，系統可用性從 99.5% 提升至 99.95%+，維護成本降低 40%
+- <strong>技術債管理（Tech Debt Management）</strong>：識別並管理技術債，透過重構與現代化，系統可用性從 80% 提升至 99.95%+，維護成本降低 40%
 - <strong>併購後 IT 整合（M&A Integration）</strong>：規劃並執行併購後的 IT 整合，統一系統架構與流程，整合時間縮短 50%，整合成本降低 35%
 
 ### 財務管理與 FinOps
@@ -41,7 +41,7 @@
 
 ### 新興科技與治理
 - <strong>GenAI Governance</strong>：建立 GenAI Governance 框架，制定 AI 使用政策與風險管理機制，AI 風險事件零發生，開發效率提升 45%
-- <strong>企業資安韌性（Cyber Resilience）</strong>：建立企業資安韌性架構，實施多層次資安防禦與災難恢復機制，資安事件響應時間減少 60-65%，業務連續性提升至 99%+
+- <strong>企業資安韌性（Cyber Resilience）</strong>：建立企業資安韌性架構，實施多層次資安防禦與災難恢復機制，資安事件響應時間減少 60-65%，業務連續性提升至 99.95%+
 - <strong>AI Governance</strong>：制定 AI 使用政策與風險管理機制，確保 AI 應用符合合規要求，AI 風險事件零發生
 
 ### 平台工程與自動化
