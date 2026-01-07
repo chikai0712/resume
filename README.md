@@ -468,13 +468,6 @@
 - <strong>RHCE</strong> (Red Hat Certified Engineer)
 - <strong>CCNP Security</strong> (Cisco Certified Network Professional Security)
 
-### 建議取得（提升競爭力）
-- <strong>AWS Certified Solutions Architect - Professional</strong> - 雲端架構設計能力
-- <strong>CKS</strong> (Certified Kubernetes Security Specialist) - 容器資安專精
-- <strong>FinOps Certified Practitioner</strong> - 雲端成本治理
-- <strong>CSM</strong> (Certified ScrumMaster) / <strong>PSM</strong> (Professional Scrum Master) - Scrum 流程引導
-- <strong>CSPO</strong> (Certified Scrum Product Owner) / <strong>PSPO</strong> (Professional Scrum Product Owner) - 產品管理
-
 ---
 
 ## 📚 教育背景
