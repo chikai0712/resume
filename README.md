@@ -1,4 +1,4 @@
-# 邱棋凱 - IT Director / DevOps Manager 履歷
+# 邱棋凱 - IT Director / 架構師 履歷
 
 ---
 
