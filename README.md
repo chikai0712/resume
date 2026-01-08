@@ -458,7 +458,7 @@
 
 ## 🏆 證照與認證
 
-### 高含金量認證（2026 趨勢）
+### 專業管理認證
 - <strong>PMP</strong> (Project Management Professional) - 專案管理能力驗證
 - <strong>CISM</strong> (Certified Information Security Manager) - 資安管理領域高階認證
 - <strong>ISO 27001 資安主管</strong>認證 - 資訊安全管理系統
@@ -521,21 +521,6 @@
 - <strong>Agile/Scrum</strong>：擔任 Product Owner 與 Scrum Master 雙重角色，使用 Jira 管理 Sprint，團隊協作效率提升 40%，Sprint 交付準時率 92%+
 - <strong>資安韌性</strong>：建立企業資安韌性架構，資安事件響應時間減少 60-65%，業務連續性提升至 99.95%+，資安事件造成的業務損失降低 80%
 - <strong>GenAI Governance</strong>：建立 GenAI Governance 框架，AI 風險事件零發生，開發效率提升 45%
-
----
-
-## 📝 履歷特色
-
-本履歷採用第一人稱視角，強調實際應用經驗與工具使用：
-
-1. ✅ <strong>第一人稱視角</strong>：以「我」的角度描述成就，展現個人貢獻與能力
-2. ✅ <strong>工具與技能詳細描述</strong>：每個技能都說明具體使用的工具、應用場景與達成的效果
-3. ✅ <strong>量化成就</strong>：所有成就都包含具體數字、百分比或金額
-4. ✅ <strong>技術深度</strong>：詳細描述工具的使用方式（如：使用 Jenkins 建構 CI/CD Pipeline，整合 Ansible Playbook）
-5. ✅ <strong>情境化關鍵字</strong>：將關鍵字融入成就描述中（如：Kubernetes, Kafka, FinOps, AIOps）
-6. ✅ <strong>商業影響力</strong>：強調對業務的實際影響（成本節省、效率提升、可用性、營收成長）
-7. ✅ <strong>ATS 友善</strong>：標準化職稱、單欄佈局、關鍵字匹配職缺描述
-8. ✅ <strong>專業術語</strong>：使用 MTTR、MTTD、SLO、HPA 等專業術語展現技術深度
 
 ---
 
